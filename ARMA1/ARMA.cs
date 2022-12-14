@@ -13,7 +13,7 @@ using System.Diagnostics;
 using System.Windows.Forms.DataVisualization.Charting;
 using k2;
 
-
+//rida
 namespace ARMA1
 {
     public partial class ARMA : Form
